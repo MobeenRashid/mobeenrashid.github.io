@@ -267,6 +267,11 @@ footer a:hover {
   transform: translateX(0);
 }
 
+.carousel-item.exit {
+  display: block;
+  transform: translateX(-200%);
+}
+
 .testimonial-content {
   display: flex;
   flex-direction: column;
