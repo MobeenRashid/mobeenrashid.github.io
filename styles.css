@@ -84,15 +84,6 @@ section h2 {
   font-family: Arial, sans-serif;
 }
 
-.experience-section h2 {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 30px;
-  color: #333;
-  text-align: center;
-  text-transform: uppercase;
-}
-
 .experience-item {
   border-left: 3px solid #f75e5d;
   padding: 15px 25px;
